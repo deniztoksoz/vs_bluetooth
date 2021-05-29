@@ -1,0 +1,35 @@
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\bin\Debug\serialcom.exe.config
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\bin\Debug\serialcom.exe
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\bin\Debug\serialcom.pdb
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\obj\Debug\serialcom.Form1.resources
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\obj\Debug\serialcom.exe
+c:\users\stranger\documents\visual studio 2012\Projects\serialcom\serialcom\obj\Debug\serialcom.pdb
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\bin\Debug\serialcom.exe.config
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\obj\Debug\serialcom.exe
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\obj\Debug\serialcom.pdb
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\bin\Debug\serialcom.exe
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\bin\Debug\serialcom.pdb
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\obj\Debug\serialcom.Form1.resources
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+G:\New Folder\project X\my prjects\The Big Project\EG Contributions\p Visual Studio Serial Port App\serialcom\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+C:\Users\Hamoudo\Desktop\serialcom\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
+C:\Users\Hamoudo\Desktop\serialcom\obj\Debug\serialcom.Form1.resources
+C:\Users\Hamoudo\Desktop\serialcom\obj\Debug\serialcom.Properties.Resources.resources
+C:\Users\Hamoudo\Desktop\serialcom\obj\Debug\serialcom.csproj.GenerateResource.Cache
+C:\Users\Hamoudo\Desktop\serialcom\bin\Debug\serial.exe.config
+C:\Users\Hamoudo\Desktop\serialcom\bin\Debug\serial.exe.manifest
+C:\Users\Hamoudo\Desktop\serialcom\bin\Debug\serial.application
+C:\Users\Hamoudo\Desktop\serialcom\bin\Debug\serial.exe
+C:\Users\Hamoudo\Desktop\serialcom\bin\Debug\serial.pdb
+C:\Users\Hamoudo\Desktop\serialcom\obj\Debug\serial.exe.manifest
+C:\Users\Hamoudo\Desktop\serialcom\obj\Debug\serial.application
+C:\Users\Hamoudo\Desktop\serialcom\obj\Debug\serial.exe
+C:\Users\Hamoudo\Desktop\serialcom\obj\Debug\serial.pdb
+C:\Users\Hamoudo\Desktop\T-sat\visual studio project\bin\Debug\serial.exe.config
+C:\Users\Hamoudo\Desktop\T-sat\visual studio project\obj\Debug\serial.exe
+C:\Users\Hamoudo\Desktop\T-sat\visual studio project\obj\Debug\serial.pdb
+C:\Users\Hamoudo\Desktop\T-sat\visual studio project\obj\Debug\serialcom.csprojResolveAssemblyReference.cache
